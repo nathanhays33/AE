@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="phone_array">
+
+    <item>Select Phone Provider</item>
+    <item>>Aircel</item>
+	<item>Airtel</item>
+	<item>Alaska Communications</item>
+	<item>Aliant</item>
+	<item>>Alltel (Allied Wireless)</item>
+	<item>Ameritech</item>
+	<item>Andhra Pradesh</item>
+	<item>aql</item>
+	<item>AU by KDDI</item>
+	<item>ATT</item>
+	<item>Bell Mobility</item>
+	<item>Bluegrass Cellular</item>
+	<item>Bluesky Communications</item>
+	<item>Boost Mobile</item>
+	<item>Bouygues Telecom </item>
+	<item>Bulletin.net</item>
+	<item>C Beyond</item>
+	<item>Cellcom</item>
+	<item>Cellular One (Dobson)</item>
+	<item>Centennial Wireless</item>
+	<item>Chariton Valley Wireless</item>
+	<item>Chennai Skycell</item>
+	<item>Chennai RPG Cellular</item>
+	<item>China Mobile</item>
+	<item>Cincinnati Bell</item>
+	<item>Cingular (Postpaid)</item>
+	<item>Cingular (GoPhone prepaid)</item>
+	<item>Claro(Brasil)</item>
+	<item>Claro(Nicaragua)</item>
+	<item>Claro(Puerto Rico)</item>
+	<item>Cleartalk </item>
+	<item>Comcel</item>
+	<item>Cricket</item>
+	<item>CSL</item>
+	<item>Edge Wireless</item>
+	<item>Element Mobile</item>
+	<item>Emtel</item>
+	<item>Esendex(UK, USA)</item>
+	<item>Esendex(Spain)</item>
+	<item>Fido</item>
+	<item>Freebie SMS</item>
+	<item>General Communications Inc.</item>
+	<item>Globalstar (satellite)</item>
+	<item>Goa Idea Cellular</item>
+	<item>Golden State Cellular</item>
+	<item>Google Voice</item>
+	<item>Hawaiian Telcom Wireless	</item>
+	<item>Gujarat Idea Cellular</item>
+	<item>Hay Systems Ltd (HSL)	</item>
+	<item>Helio</item>
+	<item>ICE</item>
+	<item>Iridium (satellite)</item>
+	<item>i-wireless (Sprint PCS)	</item>
+	<item>Kajeet</item>
+	<item>Koodo Mobile</item>
+	<item>LongLines</item>
+	<item>LOOP</item>
+	<item>M1</item>
+
+	<item>Maharashtra Idea Cellular</item>
+	<item>Mediaburst</item>
+	<item>Meteor</item>
+	<item>MetroPCS</item>
+	<item>Mobitel</item>
+	<item>Movistar(Argentina)</item>
+	<item>Movistar(Colombia)</item>
+	<item>Movistar(Spain)</item>
+	<item>MTN</item>
+	<item>MTS Mobility</item>
+	<item>My-Cool-SMS</item>
+	<item>Nextel(USA)</item>
+	<item>Nextel(Mexico)</item>
+	<item>NTT DoCoMo</item>
+	<item>02(USA)</item>
+	<item>OgVodafone</item>
+	<item>Orange(UK))</item>
+	<item>Orange(USA)</item>
+	<item>Ozeki</item>
+	<item>PagePlus Cellular</item>
+	<item>Panacea Mobile</item>
+	<item>Pioneer Cellular</item>
+	<item>Pocket Wireless</item>
+	<item>PC Telecom</item>
+	<item>Qwest Wireless</item>
+	<item>Red Pocket Mobile</item>
+	<item>Rogers Wireless</item>
+	<item>RoutoMessaging</item>
+	<item>SaskTel</item>
+	<item>Siminn</item>
+	<item>Simple Mobile</item>
+	<item>SMS Central</item>
+	<item>Starhub</item>
+	<item>South Central Communications</item>
+	<item>Spikko</item>
+	<item>Sprint (PCS)</item>
+	<item>Nextel (Sprint)</item>
+	<item>Straight Talk</item>
+	<item>Sunrise Communications</item>
+	<item>Syringa Wireless</item>
+	<item>Telecom New Zealand</item>
+	<item>Teleflip</item>
+	<item>Telstra</item>
+	<item>Telus Mobility</item>
+	<item>TellusTalk</item>
+	<item>Tigo</item>
+	<item>T-Mobile</item>
+	<item>Txtlocal</item>
+	<item>Unicel</item>
+	<item>US Cellular</item>
+	<item>USA Mobility</item>
+	<item>UTBox</item>
+	<item>Verizon</item>
+	<item>Viaero</item>
+	<item>Vivo</item>
+	<item>Virgin Mobile(Canada)</item>
+	<item>Virgin Mobile(USA)</item>
+	<item>Virgin Mobile(UK)</item>
+	<item>Wind Mobile</item>
+	<item>XIT Communications</item>
+	</string-array>
+	
+</resources>
